@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/imePogled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_ime" />
+
+    <TextView
+        android:id="@+id/prezimePogled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_prezime" />
+
+    <TextView
+        android:id="@+id/adresaPogled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/adresa" />
+
+    <TextView
+        android:id="@+id/gradPogled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/grad_prikaz" />
+
+    <TextView
+        android:id="@+id/oibPogled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/oib_prikaz" />
+
+    <TextView
+        android:id="@+id/telPogled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tel_prikaz" />
+
+    <TextView
+        android:id="@+id/spolPogled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/spol_prikaz" />
+
+    <TextView
+        android:id="@+id/button_kraj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_kraj" />
+
+    <Button
+        android:id="@+id/da_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/da_button" />
+
+    <Button
+        android:id="@+id/ne_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ne_button" />
+
+</LinearLayout>

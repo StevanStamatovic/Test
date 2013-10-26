@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ispit</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="unesi_ime">Unesite ime:</string>
+	<string name="unesi_prezime">Unesite prezime:</string>
+	<string name="prikaz_texta"></string>
+	<string name="text_ime">ime</string>
+	<string name="text_prezime">prezime</string>
+	<string name="spremi_button">Spremi</string>
+	<string name="adresa">Adresa:</string>
+	<string name="grad">Unesite grad:</string>
+	<string name="grad_prikaz">Grad:</string>
+	<string name="lista_gr">Odaberite grad:</string>
+	<string name="oib_prikaz">OIB:</string>
+	<string name="unesi_oib">Unesite OIB:</string>
+	<string name="telefon">Unesite br. tel.:</string>
+	<string name="tel_prikaz">Telefon:</string>
+	<string name="spol">Odaberite spol:</string>
+	<string name="musko">Musko</string>
+	<string name="zensko">Zensko</string>
+	<string name="spol_prikaz">Spol:</string>
+	<string name="button_kraj">Da li zelite upisati jos jednog korisnika?</string>
+	<string name="da_button">Da</string>
+	<string name="ne_button">Ne</string>
+	<string-array name="lista_gradova">
+	    <item>Vukovar</item>
+	    <item>Ilok</item>
+	    <item>Osijek</item>
+	    <item>Zagreb</item>
+	    <item>Rijeka</item>
+	    <item>Split</item>
+	    <item>Dubrovnik</item>
+	    <item>Slavnoski Brod</item>
+	    <item>Varazdin</item>
+	    <item>Svinjarevci</item>
+	</string-array>
+</resources>
